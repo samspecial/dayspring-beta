@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "product":"Dayspring Credit"
+    },
+    {
+        "id":2,
+        "product":"Dayspring Asset Financing"
+    },
+    {
+        "id":3,
+        "product":"Dayspring Market Money"
+    },
+    {
+        "id":4,
+        "product":"Dayspring Asset Management"
+    },
+    {
+        "id":5,
+        "product":"Dayspring Equipment Leasing"
+    },
+    {
+        "id":6,
+        "product":"Our Foreign Exchange Services"
+    },
+    {
+        "id":7,
+        "product":"FX Brokerage & Transfer"
+    },
+    {
+        "id":8,
+        "product":"Cash Delivery"
+    },
+    {
+        "id":9,
+        "product":"Business Consultancy Services"
+    },
+    {
+        "id":10,
+        "product":"Investment Management"
+    }
+]
